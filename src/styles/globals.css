@@ -1,0 +1,67 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #f0e68c;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #d4af37;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin: 15px 0;
+}
+
+h3 {
+    font-size: 2rem;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #d4af37;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #b5942c;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.heroic-deeds, .golden-reign, .favorite-payasam {
+    border: 2px dashed #d4af37;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #fff8e1;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #d4af37;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

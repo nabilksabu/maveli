@@ -1,0 +1,30 @@
+{
+  "name": "maaveli-portfolio",
+  "version": "1.0.0",
+  "description": "A humorous portfolio showcasing the golden reign, heroic deeds, and favorite payasam of Maaveli.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "Maaveli",
+    "portfolio",
+    "nextjs",
+    "humor",
+    "payasam"
+  ],
+  "author": "Maaveli",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/react": "latest",
+    "@types/node": "latest"
+  }
+}
